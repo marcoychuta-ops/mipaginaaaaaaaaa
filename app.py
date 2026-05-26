@@ -1,4 +1,15 @@
 import streamlit as st
+
+# ===== DATOS DEL ESTUDIANTE =====
+
+st.title("Predicción de Diabetes")
+
+st.write("Nombre: MARCO YCHUTA ")
+
+https://colab.research.google.com/drive/1k-ouTQXrl5Dcv1MppVNwe-zctaDq9MEs#scrollTo=2304c478
+
+
+
 import pandas as pd
 import joblib
 
