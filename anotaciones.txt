@@ -1,0 +1,15 @@
+genera una pagina web en streamlit desde github. 
+Este pagina contiene un modelo entrenado para saber si tiene o no diabetes. 
+tengo 2 modelos generados con joblib uno se llama logistic_regression_model.pkl y el otro modelo random_forest_model.pkl, 
+ambos estan almacenados en github en una carpeta llamada model. Quiero que el usuario ingresea las medidas requeridas. 
+-Pregnancies
+ -Glucose
+ -BloodPressure 
+-SkinThickness
+ -Insulin
+ -BMI 
+-DiabetesPedigreeFunction 
+-Age 
+
+
+Tener en cuenta que el target es "Outcome" finalmente agrega un boton para obtener la prediccion
