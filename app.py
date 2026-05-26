@@ -6,7 +6,7 @@ st.title("Predicción de Diabetes")
 
 st.write("Nombre: MARCO YCHUTA ")
 
-COLAB_LINK="https://colab.research.google.com/drive/1k-ouTQXrl5Dcv1MppVNwe-zctaDq9MEs#scrollTo=2304c478"
+st.write(COLAB_LINK= "https://colab.research.google.com/drive/1k-ouTQXrl5Dcv1MppVNwe-zctaDq9MEs#scrollTo=2304c478")
 
 
 
