@@ -6,9 +6,13 @@ st.title("Predicción de Diabetes")
 
 st.write("Nombre: MARCO YCHUTA ")
 
-COLAB_LINK= "https://colab.research.google.com/drive/1k-ouTQXrl5Dcv1MppVNwe-zctaDq9MEs#scrollTo=2304c478"
+colab_link = "https://colab.research.google.com/drive/1k-ouTQXrl5Dcv1MppVNwe-zctaDq9MEs#scrollTo=2304c478"
 
+st.markdown(
+    f"[📘 Ver cuaderno de Google Colab]({colab_link})"
+)
 
+st.divider()
 
 import pandas as pd
 import joblib
