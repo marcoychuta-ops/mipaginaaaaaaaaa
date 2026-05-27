@@ -9,7 +9,7 @@ st.write("Nombre: MARCO YCHUTA ")
 colab_link = "https://colab.research.google.com/drive/1k-ouTQXrl5Dcv1MppVNwe-zctaDq9MEs#scrollTo=2304c478"
 
 st.markdown(
-    f"[📘 Ver cuaderno de Google Colab]({colab_link})"
+    f"[📘 Ver cuaderno de Google Colab MODELO 2]({colab_link})"
 )
 
 st.divider()
@@ -19,7 +19,7 @@ st.divider()
 colab_link = "https://colab.research.google.com/drive/1dqHRMpbLfZRQyKEEYUoYjuYGpgq-VHsK#scrollTo=Tjir385dWaWc"
 
 st.markdown(
-    f"[📘 Ver cuaderno de Google Colab]({colab_link})"
+    f"[📘 Ver cuaderno de Google Colab MODELO 1 ]({colab_link})"
 )
 
 st.divider()
