@@ -14,6 +14,18 @@ st.markdown(
 
 st.divider()
 
+
+
+colab_link = "https://colab.research.google.com/drive/1dqHRMpbLfZRQyKEEYUoYjuYGpgq-VHsK#scrollTo=Tjir385dWaWc"
+
+st.markdown(
+    f"[📘 Ver cuaderno de Google Colab]({colab_link})"
+)
+
+st.divider()
+
+
+
 import pandas as pd
 import joblib
 
